@@ -1421,8 +1421,8 @@ export default Page;
 
 **Supported properties**
 
-| Property                        | Info                                                                                                                                                        |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Property                        | Info                                                                                                                          |
+| ------------------------------- | -----------------------------------------------------------------------------------------------------------------------------|
 | `applicantLocationRequirements` | The geographic location(s) in which employees may be located for to be eligible for the remote job                                                          |
 | `baseSalary`                    |                                                                                                                                                             |
 | `baseSalary.currency`           | The currency in which the monetary amount is expressed                                                                                                      |
